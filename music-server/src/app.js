@@ -20,6 +20,6 @@ app.use((req, res, next) => {
 
 app.use(errorHandler);
 
-app.listen(3000, () => {
-    console.log('server listening on 3000');
-})
+app.listen(8000, () => {
+    console.log('server listening on 8000');
+});
