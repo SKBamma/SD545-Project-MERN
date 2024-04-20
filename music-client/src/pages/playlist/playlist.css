@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.border-line {
+    width: 95%;
+}
+
+body {
+    background: whitesmoke;
+}
+
+.breakline {
+    border: 0.1px solid rgba(0, 0, 0, 0.377);
+    margin-left: 5%;
+}

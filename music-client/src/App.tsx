@@ -1,9 +1,10 @@
 
 import LoginPage from './pages/loginForm/login.pages';
+import Playlist from './pages/playlist/playlist';
 import './App.css';
-import Playlist from './pages/display/playlist';
 
-function App() {
+
+function Home() {
 
   return (
     <div>
@@ -13,4 +14,4 @@ function App() {
   );
 }
 
-export default App;
+export default Home;
